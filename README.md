@@ -136,7 +136,6 @@ For questions or issues related to this project, please refer to the AWS documen
 
 Submission Details:
 
-GitHub Repository: [Your Repository URL]
-Video Demonstration: [Your Video URL]
-Student: [Paul John Nuguid]
-Date: [11/20/2025]
+GitHub Repository: (https://github.com/nuguid5263/serverless-image-processing.git)
+Student: Paul John Nuguid
+Date: 11/20/2025
